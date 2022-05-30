@@ -1,0 +1,37 @@
+.container{
+    width: 80%;
+    height: 80px;
+    background:antiquewhite;
+    position: relative;
+    margin-left: 100px;
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    
+    
+    
+}
+.container .left_side{
+    width: 100%;
+    height: 500px;
+    background:lightskyblue ;
+}
+.container .right_side{
+    width: 100%;
+    height: 500px;
+    background: aqua;
+}
+.lang{
+    text-align: center;
+    
+}
+.program{
+    margin: 20px;
+    padding: auto;
+}
+.script{
+    margin: 20px;
+    padding: auto;
+}
+h1{
+    text-align: center;
+}
